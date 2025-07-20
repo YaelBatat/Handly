@@ -1,0 +1,12 @@
+numpy
+opencv-python
+PyQt5
+google-api-python-client
+pose-format
+mediapipe
+scikit-learn
+requests
+google-auth
+google-auth-oauthlib
+gtts
+pygame
