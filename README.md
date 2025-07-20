@@ -4,6 +4,8 @@ _A Friendly Hand to Help You Understand!_
 <!-- cool project cover image -->
 ![Project Cover Image](handly_img.jpg)
 
+![Demo Animation](demo.gif)
+
 ## Table of Contents
 - [The Team](#the-team)
 - [Project Description](#project-description)
