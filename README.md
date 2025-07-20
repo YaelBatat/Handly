@@ -5,7 +5,7 @@ _A Friendly Hand to Help You Understand!_
 ![Project Cover Image](handly_img.jpg)
 
 <!-- Demo GIF -->
-![Demo Animation](demo.gif)
+![Demo gif](demo.gif)
 
 ## Table of Contents
 - [The Team](#the-team)
