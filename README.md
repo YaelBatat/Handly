@@ -4,8 +4,7 @@ _A Friendly Hand to Help You Understand!_
 <!-- cool project cover image -->
 ![Project Cover Image](handly_img.jpg)
 
-<!-- Demo GIF -->
-![Demo gif](demo.gif)
+
 
 ## Table of Contents
 - [The Team](#the-team)
@@ -20,7 +19,8 @@ _A Friendly Hand to Help You Understand!_
 - [Acknowledgments](#acknowledgments)
 
 ---
-
+<!-- Demo GIF -->
+![Demo gif](demo.gif)
 ## 👥 The Team 
 
 **Team Members**
