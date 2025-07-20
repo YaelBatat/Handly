@@ -2,7 +2,7 @@
 _A Friendly Hand to Help You Understand!_
 
 <!-- cool project cover image -->
-![Project Cover Image](/media/project-cover-img.jpg)
+![Project Cover Image](handly_img.jpg)
 
 ## Table of Contents
 - [The Team](#the-team)
