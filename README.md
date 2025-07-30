@@ -2,7 +2,7 @@
 _A Friendly Hand to Help You Understand!_
 
 <!-- cool project cover image -->
-![Project Cover Image](handly_img.jpg)
+![Project Cover Image](handly_logo.jpg)
 
 <!-- Demo GIF -->
 ![Demo gif](demo.gif)
