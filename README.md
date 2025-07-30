@@ -131,6 +131,13 @@ To access sign videos and pretrained data:
 
 We will provide credentials and setup instructions.
 
+5. **run the app**
+
+Write the following command in the terminal-
+   
+```
+python handly.py
+```
 ---
 ## 🧪 Testing
 
@@ -189,6 +196,13 @@ To deploy on a live system (for demonstration or classroom use):
 
 No cloud server is required; the app runs fully on the client machine.
 
+In order to run the app write the following command in the terminal in the platform directory (handlyForMac/
+handlyForWindow) -
+   
+```
+python handly.py
+```
+
 ---
 
 ## ⚙️ Built With
@@ -201,11 +215,12 @@ No cloud server is required; the app runs fully on the client machine.
 - [pygame](https://www.pygame.org/) – Game interfaces  
 - [gTTS](https://pypi.org/project/gTTS/) – Text-to-speech feedback
 
+
 ---
 
 ## 🙏 Acknowledgments
 
-- Based on the amazing work of the [MMPT Research Group](https://github.com/J22Melody/fairseq/tree/main/examples/MMPT)
+- Based on the amazing work of the (SignClip) [MMPT Research Group](https://github.com/J22Melody/fairseq/tree/main/examples/MMPT)
 - Thanks to Google for MediaPipe and Drive API tools
 - Special thanks to Gal Katzhendler for his supervision and guidance
 - Inspired by the need for inclusive, interactive educational tools for ASL
